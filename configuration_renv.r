@@ -1,5 +1,3 @@
-setwd("/home/benjamin/PROJETS/5_Developpement/RNA-Seq_Analyses-0322/")
-
 renv::init()
 
 renv::install('readr')
