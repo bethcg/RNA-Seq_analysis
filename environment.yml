@@ -1,0 +1,23 @@
+name: rna-seq-analysis
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base=4.1.3
+  - bioconductor-tximport=1.22.0
+  - r-readr=2.1.2
+  - bioconductor-deseq2=1.34.0
+  - r-reshape=0.8.8
+  - r-ggplot2=3.3.5
+  - r-rcolorbrewer=1.1_2
+  - r-pheatmap=1.0.12
+  - r-ggrepel=0.9.1
+  - r-rmarkdown=2.13
+  - bioconductor-limma=3.50.1
+  - bioconductor-biomart=2.50.0
+  - r-magrittr=2.0.2
+  - r-dplyr=1.0.8
+  - bioconductor-biocmanager=1.30.16
+  - r-renv=0.15.4
+  - r-knitr=1.37
