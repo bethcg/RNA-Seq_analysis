@@ -1,7 +1,7 @@
 name: rna-seq-analysis
 channels:
-  - conda-forge
   - bioconda
+  - conda-forge
   - nodefaults
 dependencies:
   - r-base=4.1.3
