@@ -18,6 +18,6 @@ dependencies:
   - bioconductor-biomart=2.50.0
   - r-magrittr=2.0.2
   - r-dplyr=1.0.8
-  - bioconductor-biocmanager=1.30.16
+  - r-biocmanager=1.30.16
   - r-renv=0.15.4
   - r-knitr=1.37
